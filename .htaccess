@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^search/(ettv|ethd|etrg)/([^/]*) search.php?tag=$1&q=$2 [NC]
+RewriteRule ^search/(.*) search.php?q=$1 [NC]
