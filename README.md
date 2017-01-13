@@ -2,4 +2,4 @@
 
 An easy to use backup site for ETTV
 
-Example: https://condors.katmirrors.com
+Example: https://ettv.katmirrors.com
